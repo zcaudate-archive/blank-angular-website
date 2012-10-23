@@ -3,7 +3,7 @@
                                         sanitize-ns name-to-path]]))
 
 (defn blank-angular-website
-  "FIXME: write documentation"
+  "A blank leiningen template for an angular website"
   [name]
   (println "Generating Angular Website")
   {:template true
